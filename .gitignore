@@ -1,2 +1,3 @@
 nginx-data/
+conf.d/
 .DS_Store
